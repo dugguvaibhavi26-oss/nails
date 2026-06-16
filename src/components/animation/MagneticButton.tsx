@@ -1,4 +1,5 @@
-import { useRef, ReactNode, useState } from 'react'
+import { useRef, useState } from 'react'
+import type { ReactNode } from 'react'
 import { motion } from 'framer-motion'
 
 interface MagneticButtonProps {
